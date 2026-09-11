@@ -5,6 +5,8 @@ void function(){
 
 printf("wyy\n");
 printf("version C\n");
+printf("version B\n");
+
 return 0;
 
 
