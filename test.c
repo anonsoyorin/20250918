@@ -1,7 +1,9 @@
 #include<stdio.h>
 using namespace std;
-int main(){
-printf("wyy"\n);
+void function(){
+
+
+printf("wyy\n");
 return 0;
 
 
